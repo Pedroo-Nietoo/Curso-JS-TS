@@ -24,7 +24,10 @@
   <li> [...] </li>
 </ul>
 
+<br>
+
 >🛑 NOTA: O repositório é constantemente atualizado. Podem haver códigos não funcionando e projetos pessoais inacabados.
+
 <br>
 
 <div align="center">
