@@ -8,6 +8,8 @@
 
 <h3> Linguagens, bibliotecas e outros recursos utilizados: </h3>
 <ul>
+  <li> HTML </li>
+  <li> CSS </li>
   <li> JavaScript </li>
   <li> TypeScript </li>
   <li> Node JS </li>
@@ -29,6 +31,10 @@
 <br>
 
 <div align="center">
+
+<img height="115em" alt="HTML Logo" src="https://blog-fabrica-prod.s3.amazonaws.com/wp-content/uploads/2018/12/06103758/Html5.ico"/>
+
+<img height="110em" alt="CSS Logo" src="https://logospng.org/download/css-3/logo-css-3-2048.png"/>
 
 <img height="100em" alt="JavaScript Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png"/>
   
