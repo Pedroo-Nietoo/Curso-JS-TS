@@ -6,26 +6,6 @@
 <h3> O que será encontrado ao longo desse repositório? </h3>
 <p> Ao longo desse repositórios serão encontrados meus códigos em JavaScript, TypeScript, React, Node e outros, com explicações e anotações sobre alguns assuntos sobre o que é utilizado nos códigos, como uma "aula/anotação". </p>
 
-<h3> Linguagens, bibliotecas e outros recursos utilizados: </h3>
-<ul>
-  <li> HTML </li>
-  <li> CSS </li>
-  <li> JavaScript </li>
-  <li> TypeScript </li>
-  <li> Node JS </li>
-  <li> React JS </li>
-  <li> Redux </li>
-  <li> ES6 </li>
-  <li> Npm </li>
-  <li> MongoDB </li>
-  <li> noSQL </li>
-  <li> MySQL </li>
-  <li> MariaDB </li>
-  <li> [...] </li>
-</ul>
-
-<br>
-
 >🛑 NOTA: O repositório é constantemente atualizado. Podem haver códigos não funcionando e projetos pessoais inacabados.
 
 <br>
