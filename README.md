@@ -11,16 +11,14 @@
   <li> JavaScript </li>
   <li> TypeScript </li>
   <li> Node JS </li>
-  <li> Npm </li>
   <li> React JS </li>
-  <li> Express </li>
   <li> Redux </li>
   <li> ES6 </li>
-  <li> Ajax </li>
-  <li> Fetch </li>
-  <li> Async/Await </li>
+  <li> Npm </li>
   <li> MongoDB </li>
   <li> noSQL </li>
+  <li> MySQL </li>
+  <li> MariaDB </li>
   <li> [...] </li>
 </ul>
 
@@ -32,5 +30,21 @@
 
 <div align="center">
 
-<img height="200em" alt="JavaScript Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png"/>
+<img height="100em" alt="JavaScript Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png"/>
+  
+<img height="100em" alt="TypeScript Logo" src="https://iconape.com/wp-content/png_logo_vector/typescript.png"/>
+  
+<br>
+
+<img height="100em" alt="NodeJS Logo" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png"/>
+  
+<img height="100em" alt="ReactJS Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"/>
+  
+<img height="100em" alt="Redux Logo" src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png"/>
+  
+<img height="100em" alt="ES6 Logo" src="https://walde.co/wp-content/uploads/2016/05/es6-logo.png"/>
+
+<br>
+  
+<img height="100em" alt="Npm Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/540px-Npm-logo.svg.png"/>
 </div>
