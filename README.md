@@ -16,12 +16,12 @@
   <li> Express </li>
   <li> Redux </li>
   <li> ES6 </li>
-  <li> Promises </li>
   <li> Ajax </li>
   <li> Fetch </li>
   <li> Async/Await </li>
   <li> MongoDB </li>
   <li> noSQL </li>
+  <li> [...] </li>
 </ul>
 
 >🛑 NOTA: O repositório é constantemente atualizado. Podem haver códigos não funcionando e projetos pessoais inacabados.
