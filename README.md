@@ -22,15 +22,11 @@
   
 <br><br>
 
+<img height="100em" alt="ES6 Logo" src="https://walde.co/wp-content/uploads/2016/05/es6-logo.png"/>
+
 <img height="100em" alt="NodeJS Logo" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png"/>
   
 <img height="100em" alt="ReactJS Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"/>
   
 <img height="100em" alt="Redux Logo" src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png"/>
-  
-<img height="100em" alt="ES6 Logo" src="https://walde.co/wp-content/uploads/2016/05/es6-logo.png"/>
-
-<br><br>
-  
-<img height="100em" alt="Npm Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/540px-Npm-logo.svg.png"/>
 </div>
