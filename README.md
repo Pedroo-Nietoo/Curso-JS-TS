@@ -6,7 +6,9 @@
 <h3> O que será encontrado ao longo desse repositório? </h3>
 <p> Ao longo desse repositórios serão encontrados meus códigos em JavaScript, TypeScript, React, Node e outros, com explicações e anotações sobre alguns assuntos sobre o que é utilizado nos códigos, como uma "aula/anotação". </p>
 
->🛑 NOTA: O repositório é constantemente atualizado. Podem haver códigos não funcionando e projetos pessoais inacabados.
+>🛑 NOTA 1: O repositório segue o cronograma de um curso. O mesmo é utilizado para armazenar os arquivos e documentações do curso.
+
+>🛑 NOTA 2: O repositório é constantemente atualizado. Podem haver códigos não funcionando e projetos pessoais inacabados.
 
 <br>
 
