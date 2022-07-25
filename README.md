@@ -4,7 +4,28 @@
 <p> JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma. Juntamente com HTML e CSS, o JavaScript é uma das três principais tecnologias da World Wide Web. Utilizando a analogia do repositório <a href="https://github.com/Pedroo-Nietoo/HTML-CSS-JS/blob/main/README.md">HTML-CSS</a>, pode-se dizer que o JavaScript seriam os músculos do corpo, responsáveis por tornar a aplicação funcional. </p>
 
 <h3> O que será encontrado ao longo desse repositório? </h3>
-<p> Ao longo desse repositórios serão encontrados meus projetos e códigos em JavaScript, TypeScript, React, Node e diversos outros, podendo ter explicações e anotações sobre as linguagens, como uma "aula/anotação". </p>
+<ul>
+   <li>JavaScript Básico, Funcional e Orientado a Objetos (ES6+, front-end e back-end);</li>
+   <li>TypeScript - um superset do JavaScript com tipagem estática (front-end e back-end);</li>
+   <li>Node, Express, MongoDB e MySQL/MariaDB (Back-end);</li>
+   <li>Webpack e Babel (Front-end);</li>
+   <li>Sistema de login com session (front-end e back-end);</li>
+   <li>Sistema de login com JWT (front-end e back-end);</li>
+   <li>Criação de projetos com Node, Express e EJS (front-end e back-end);</li>
+   <li>Configuração de um servidor Linux para Deploy (Ubuntu Server);</li>
+   <li>Configurações de segurança para o servidor (SSH e TLS - Https);</li>
+   <li>Utilização de noSQL com mongoose (MongoDB);</li>
+   <li>Utilização de SQL com sequelize (MySQL e MariaDB);</li>
+   <li>Criação de API Rest com Node + Express + Sequelize (back-end);</li>
+   <li>React JS com React Hooks + Redux</li> com Redux Saga (front-end);</li>
+   <li>Princípios da programação orientada a objetos;</li>
+   <li>Princípios S.O.L.I.D;</li>
+   <li>Testes automatizados com o Jest;</li>
+   <li>Expressões Regulares (Bônus);</li>
+   <li>Padrões de projeto GOF - Design Patterns (Bônus);</li>
+   <li>NestJS + Strapi + PostgreSQL (com CSR, SSR, SSG e ISR);</li>
+   <li>HTML5 e CSS3 (Bônus Extra);</li>
+</ul>
 
 >🛑 NOTA 1: O repositório segue o cronograma de um curso. O mesmo é utilizado para armazenar os arquivos e documentações do curso.
 
@@ -13,22 +34,5 @@
 <br>
 
 <div align="center">
-
-<img height="100em" alt="JavaScript Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png"/>
-  
-<img height="100em" alt="TypeScript Logo" src="https://iconape.com/wp-content/png_logo_vector/typescript.png"/>
-  
-<img height="110em" alt="CSS Logo" src="https://logospng.org/download/css-3/logo-css-3-2048.png"/>
-  
-<img height="115em" alt="HTML Logo" src="https://blog-fabrica-prod.s3.amazonaws.com/wp-content/uploads/2018/12/06103758/Html5.ico"/>
-  
-<br><br>
-
-<img height="100em" alt="ES6 Logo" src="https://walde.co/wp-content/uploads/2016/05/es6-logo.png"/>
-
-<img height="100em" alt="NodeJS Logo" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png"/>
-  
-<img height="100em" alt="ReactJS Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"/>
-  
-<img height="100em" alt="Redux Logo" src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png"/>
+<img align="center" height="200em" alt="JavaScript Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png"/>
 </div>
