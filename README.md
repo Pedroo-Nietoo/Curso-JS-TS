@@ -3,6 +3,8 @@
 <h3> O que é JavaScript? 🧠 </h3>
 <p> JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma. Juntamente com HTML e CSS, o JavaScript é uma das três principais tecnologias da World Wide Web. Utilizando a analogia do repositório <a href="https://github.com/Pedroo-Nietoo/HTML-CSS-JS/blob/main/README.md">HTML-CSS</a>, pode-se dizer que o JavaScript seriam os músculos do corpo, responsáveis por tornar a aplicação funcional. </p>
 
+>🛑 NOTA 1: O repositório segue o cronograma de um curso. O mesmo é utilizado para armazenar os arquivos e documentações do curso.
+
 <h3> O que será encontrado ao longo desse repositório? </h3>
 <ul>
    <li>JavaScript Básico, Funcional e Orientado a Objetos (ES6+, front-end e back-end);</li>
@@ -26,8 +28,6 @@
    <li>NestJS + Strapi + PostgreSQL (com CSR, SSR, SSG e ISR);</li>
    <li>HTML5 e CSS3 (Bônus Extra);</li>
 </ul>
-
->🛑 NOTA 1: O repositório segue o cronograma de um curso. O mesmo é utilizado para armazenar os arquivos e documentações do curso.
 
 >🛑 NOTA 2: O repositório é constantemente atualizado. Podem haver códigos não funcionando e projetos pessoais inacabados.
 
