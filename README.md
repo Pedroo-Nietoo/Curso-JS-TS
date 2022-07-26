@@ -45,3 +45,28 @@
 <div align="center">
 <img align="center" height="200em" alt="JavaScript Logo" src="https://user-images.githubusercontent.com/102625628/181043091-729a80c9-e233-46ae-b321-14f660927bc7.png"/>
 </div>
+
+<br>
+
+<div align="center">
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-22272E?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-22272E?style=for-the-badge&logo=typescript&logoColor=007ACC"/>
+<br>
+<img alt="NodeJS" src="https://img.shields.io/badge/Node.js-22272E?style=for-the-badge&logo=node.js&logoColor=43853D"/>
+<img alt="React" src="https://img.shields.io/badge/React-22272E?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img alt="Redux" src="https://img.shields.io/badge/Redux-22272E?style=for-the-badge&logo=redux&logoColor=593D88"/>
+<img alt="Express" src="https://img.shields.io/badge/Express.js-22272E?style=for-the-badge"/>
+<br>
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-22272E?style=for-the-badge&logo=postgresql&logoColor=316192"/>
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-22272E?style=for-the-badge&logo=mysql&logoColor=00000F"/>
+<img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-22272E?style=for-the-badge&logo=mariadb&logoColor=003545"/>
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-22272E?style=for-the-badge&logo=mongodb&logoColor=4EA94B"/>
+<br>
+<img alt="Google Cloudt" src="https://img.shields.io/badge/Google_Cloud-22272E?style=for-the-badge&logo=google-cloud&logoColor=4285F4"/>
+<img alt="Sequelize" src="https://img.shields.io/badge/sequelize-22272E?style=for-the-badge&logo=sequelize&logoColor=blue"/>
+<img alt="Jest" src="https://img.shields.io/badge/Jest-22272E?style=for-the-badge&logo=Jest&logoColor=323330"/>
+<br>
+<img alt="HTML" src="https://img.shields.io/badge/HTML5-22272E?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+<img alt="CSS" src="https://img.shields.io/badge/CSS3-22272E?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+<h4>[...]</h4>
+</div>
