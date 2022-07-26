@@ -69,5 +69,5 @@
 <br>
 <img alt="HTML" src="https://img.shields.io/badge/HTML5-22272E?style=for-the-badge&logo=html5&logoColor=E34F26"/>
 <img alt="CSS" src="https://img.shields.io/badge/CSS3-22272E?style=for-the-badge&logo=css3&logoColor=1572B6"/>
-<h4>[...]</h4>
+<h3>[...]</h3>
 </div>
