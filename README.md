@@ -5,7 +5,7 @@
 
 >🛑 NOTA 1: O repositório segue o cronograma do curso "Curso de JavaScript e TypeScript do básico ao avançado 2022". O mesmo é utilizado para armazenar os arquivos e documentações do curso.
 
-<h3> O que será encontrado ao longo desse repositório? </h3>
+<h3> 📚 Conteúdos do curso: </h3>
 <ul>
    <li>JavaScript Básico, Funcional e Orientado a Objetos (ES6+, front-end e back-end);</li>
    <li>TypeScript - um superset do JavaScript com tipagem estática (front-end e back-end);</li>
