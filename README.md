@@ -58,7 +58,7 @@
 <img alt="Express" src="https://img.shields.io/badge/Express.js-22272E?style=for-the-badge"/>
 <br>
 <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-22272E?style=for-the-badge&logo=postgresql&logoColor=316192"/>
-<img alt="MySQL" src="https://img.shields.io/badge/MySQL-22272E?style=for-the-badge&logo=mysql&logoColor=00000F"/>
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-22272E?style=for-the-badge&logo=mysql&logoColor=00758F"/>
 <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-22272E?style=for-the-badge&logo=mariadb&logoColor=003545"/>
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-22272E?style=for-the-badge&logo=mongodb&logoColor=4EA94B"/>
 <br>
