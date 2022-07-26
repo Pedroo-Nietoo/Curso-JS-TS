@@ -1,9 +1,18 @@
-<h1 align="center"> JavaScript </h1>
+<h1 align="center"> "Curso de <ins>JavaScript</ins> e <ins>TypeScript</ins> do básico ao avançado 2022" </h1>
 
-<h3> O que é JavaScript? 🧠 </h3>
+<img height="40em" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-22272E?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 <p> JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma. Juntamente com HTML e CSS, o JavaScript é uma das três principais tecnologias da World Wide Web. Utilizando a analogia do repositório <a href="https://github.com/Pedroo-Nietoo/HTML-CSS-JS/blob/main/README.md">HTML-CSS</a>, pode-se dizer que o JavaScript seriam os músculos do corpo, responsáveis por tornar a aplicação funcional. </p>
 
+<br>
+
+<img height="40em" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-22272E?style=for-the-badge&logo=typescript&logoColor=007ACC"/>
+<p> TypeScript é uma linguagem de programação de código aberto desenvolvida pela Microsoft. É um superconjunto sintático estrito de JavaScript e adiciona tipagem estática opcional à linguagem. </p>
+
+<br>
+
 >🛑 NOTA 1: O repositório segue o cronograma do curso "Curso de JavaScript e TypeScript do básico ao avançado 2022". O mesmo é utilizado para armazenar os arquivos e documentações do curso.
+
+<hr>
 
 <h3> 📚 Conteúdos do curso: </h3>
 <ul>
