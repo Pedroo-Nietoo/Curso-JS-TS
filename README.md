@@ -64,7 +64,8 @@
 <br>
 <img alt="Google Cloudt" src="https://img.shields.io/badge/Google_Cloud-22272E?style=for-the-badge&logo=google-cloud&logoColor=4285F4"/>
 <img alt="Sequelize" src="https://img.shields.io/badge/sequelize-22272E?style=for-the-badge&logo=sequelize&logoColor=blue"/>
-<img alt="Jest" src="https://img.shields.io/badge/Jest-22272E?style=for-the-badge&logo=Jest&logoColor=323330"/>
+<img alt="Jest" src="https://img.shields.io/badge/Jest-22272E?style=for-the-badge&logo=Jest&logoColor=FFFFFF"/>
+<img alt="Babel" src="https://img.shields.io/badge/Babel-22272E?style=for-the-badge&logo=babel&logoColor=F9DC3e"/>
 <br>
 <img alt="HTML" src="https://img.shields.io/badge/HTML5-22272E?style=for-the-badge&logo=html5&logoColor=E34F26"/>
 <img alt="CSS" src="https://img.shields.io/badge/CSS3-22272E?style=for-the-badge&logo=css3&logoColor=1572B6"/>
