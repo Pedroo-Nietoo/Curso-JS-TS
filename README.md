@@ -34,5 +34,5 @@
 <br>
 
 <div align="center">
-<img align="center" height="200em" alt="JavaScript Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png"/>
+<img align="center" height="200em" alt="JavaScript Logo" src="https://user-images.githubusercontent.com/102625628/181043091-729a80c9-e233-46ae-b321-14f660927bc7.png"/>
 </div>
