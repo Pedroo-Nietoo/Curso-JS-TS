@@ -1,7 +1,7 @@
 <h2 align="center"> Curso de <ins>JavaScript</ins> e <ins>TypeScript</ins> do básico ao avançado 2022 </h2>
 
 <img height="40em" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-22272E?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<p> JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma. Juntamente com HTML e CSS, o JavaScript é uma das três principais tecnologias da World Wide Web. Utilizando a analogia do repositório <a href="https://github.com/Pedroo-Nietoo/HTML-CSS-JS">HTML-CSS-JS</a>, pode-se dizer que o JavaScript seriam os músculos, o cérebro do corpo, responsáveis por tornar a aplicação funcional. </p>
+<p> JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma. Juntamente com HTML e CSS, o JavaScript é uma das três principais tecnologias da World Wide Web.
 
 <br>
 
