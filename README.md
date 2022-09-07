@@ -2,7 +2,8 @@
 
 <img height="40em" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-22272E?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 <p> JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma. Juntamente com HTML e CSS, o JavaScript é uma das três principais tecnologias da World Wide Web.
-
+   
+<br>
 <br>
 
 <img height="40em" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-22272E?style=for-the-badge&logo=typescript&logoColor=007ACC"/>
