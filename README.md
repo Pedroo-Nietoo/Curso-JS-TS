@@ -1,12 +1,12 @@
 <h2 align="center"> Curso de <ins>JavaScript</ins> e <ins>TypeScript</ins> do básico ao avançado 2022 </h2>
 
-<img height="40em" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-22272E?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img height="40em" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 <p> JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma. Juntamente com HTML e CSS, o JavaScript é uma das três principais tecnologias da World Wide Web.
    
 <br>
 <br>
 
-<img height="40em" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-22272E?style=for-the-badge&logo=typescript&logoColor=007ACC"/>
+<img height="40em" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=007ACC"/>
 <p> TypeScript é uma linguagem de programação de código aberto desenvolvida pela Microsoft. É um superconjunto sintático estrito de JavaScript e adiciona tipagem estática opcional à linguagem. </p>
 
 <br>
