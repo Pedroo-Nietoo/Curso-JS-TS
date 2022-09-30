@@ -1,6 +1,6 @@
 let emailRuim = " pedroO-Nietoo@mEuemail.com"
 function formataEmail(email){
-  email = email.toLowerCase()
+  email = email.toLowerCase() //toUpperCase() = PEDROO-NIETOO@MEUEMAIL.COM
   email = email.trim()
   return email
 }
